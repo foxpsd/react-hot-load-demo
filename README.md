@@ -1,4 +1,4 @@
-# webpack 博客书写测试程序
+# webpack react 热更新
 
 ``` bash
 # install dependencies
